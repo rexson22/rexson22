@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **rexson22/rexson22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,11 @@ Here are some ideas to get you started:
   
 ###
   
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<ul>
+  <li>Student at NIELIT Imphal</li>
+  <li>Interseted in UI/UX design</li>
+  <li>Creative idea of Photo & Video editing</li>
+</ul>
 
 
 ###
@@ -44,8 +48,8 @@ Here are some ideas to get you started:
 ###
 ## Connect with me
 <div align="left">
-  <a href="https://www.facebook.com/re.x.on.897506"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=425df5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="https://www.instagram.com/rx_n_angm/?hl=en"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="https://www.facebook.com/re.x.on.897506" targrt="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=425df5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+  <a href="https://www.instagram.com/rx_n_angm/?hl=en" targrt="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
