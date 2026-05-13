@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ###
 
 <img align="middle" height="300" src="https://i.imgflip.com/65efzo.gif"  />
-<img align="right" height="150" src="https://i.imgflip.com/adr94z.gif"  />
 
 ###
 
