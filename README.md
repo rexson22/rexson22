@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> My name is<mark style="background-color:yellow"> Rexson </mark><h3>
+<h3> My name is<mark style="background-color:yellow"> Rexson Angom </mark><h3>
   
 ###
   
 <ul>
-  <li>Student at NIELIT Imphal</li>
+  <li>Student at <b>NIELIT Imphal</b></li>
   <li>Interseted in UI/UX design</li>
   <li>Creative idea of Photo & Video editing</li>
 </ul>
