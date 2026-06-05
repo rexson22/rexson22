@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 <ul>
   <li>Student at <b>NIELIT Imphal</b></li>
-  <li>Interseted in UI/UX design</li>
+  <li>Interseted in Web development, UI/UX design</li>
   <li>Creative idea of Photo & Video editing</li>
 </ul>
 
